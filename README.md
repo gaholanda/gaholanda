@@ -2,10 +2,10 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gaholanda&color=green" alt="Profile views" /></p>
 
 - 👨‍🔬 Senior Web Developer
-- 🔭 Trabalhando na [Chiper](https://github.com/chiper-inc)
-- 🌱 Estudando sobre NextJS, React Native, Storybook e Testes
-- 💬 Pergunte-me sobre JS e React
-- ⚡ Curiosidade: Games!!!! 😎🎮
+- 🔭 I’m currently working at [Chiper inc](https://github.com/chiper-inc)
+- 🌱 Learning about NextJS, React Native, Storybook and Tests
+- 💬 Ask me about JavaScript, React, HTML, CSS and Node.JS
+- ⚡ Fun fact: Games!!!! 😎🎮
 
 <br>
 
@@ -21,7 +21,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<br>
+<br />
 
 ## 🕸️ &nbsp;Social Links
 
