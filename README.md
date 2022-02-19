@@ -27,13 +27,13 @@
 
 <p align="left">
   <a href="https://twitter.com/glauber_holanda" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-gaholanda-05122A?style=flat&logo=twitter" alt="twitter"/>  
+    <img align="center" src="https://img.shields.io/badge/-glauber_holanda-05122A?style=flat&logo=twitter" alt="twitter"/>  
   </a>
   <a href="https://www.linkedin.com/in/glauberholanda/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-gaholanda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+    <img align="center" src="https://img.shields.io/badge/-glauberholanda-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
   <a href="https://instagram.com/glauber.aholanda" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gaholanda-05122A?style=flat&logo=instagram" alt="instagram"/>
+  <img align="center" src="https://img.shields.io/badge/-glauber.aholanda-05122A?style=flat&logo=instagram" alt="instagram"/>
   </a>
 </p>
 
