@@ -46,9 +46,3 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=gaholanda&show_icons=true&theme=vision-friendly-dark" alt="gaholanda's stats"/>
 </p>
-
-<br />
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaholanda&layout=compact&theme=vision-friendly-dark" alt="gaholanda's most languages"/>
-</p>
