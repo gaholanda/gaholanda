@@ -1,7 +1,7 @@
 <h1 align="left">Glauber Holanda</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gaholanda&color=green" alt="Profile views" /></p>
 
-- 👨‍🔬 Senior Web Developer
+- 👨‍🔬 Front-end Developer
 - 🔭 I’m currently working at [Chiper inc](https://github.com/chiper-inc)
 - 🌱 Learning about NextJS, React Native, Storybook and Tests
 - 💬 Ask me about JavaScript, React, HTML, CSS and Node.JS
