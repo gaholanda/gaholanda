@@ -2,7 +2,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gaholanda&color=green" alt="Profile views" /></p>
 
 - 👨‍🔬 Front-end Developer
-- 🔭 I’m currently working at [Chiper inc](https://github.com/chiper-inc)
+- 🔭 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home)
 - 🌱 Learning about NextJS, React Native, Storybook and Tests
 - 💬 Ask me about JavaScript, React, HTML, CSS and Node.JS
 - ⚡ Fun fact: Games!!!! 😎🎮
