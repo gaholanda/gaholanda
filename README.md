@@ -1,10 +1,10 @@
 <h1 align="left">Glauber Holanda</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gaholanda&color=green" alt="Profile views" /></p>
 
-- 👨‍🔬 Front-end Developer
-- 🔭 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home)
-- 🌱 Learning about NextJS, React Native, Storybook and Tests
-- 💬 Ask me about JavaScript, React, HTML, CSS and Node.JS
+- 👨‍🔬 Front-end Developer;
+- 🔭 I’m currently working at [CI&T](https://ciandt.com/br/pt-br/home);
+- 🌱 Studying [Lit](https://lit.dev), [Storybook](https://storybook.js.org/), [NextJS](https://nextjs.org/) and tests;
+- 💬 Ask me about JavaScript, Typescript, React, HTML, CSS and Node.JS;
 - ⚡ Fun fact: Games!!!! 😎🎮
 
 <br>
